@@ -9,4 +9,4 @@
 
  <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
+        <img src="Logo.jpg" className="App-logo" alt="logo" />
